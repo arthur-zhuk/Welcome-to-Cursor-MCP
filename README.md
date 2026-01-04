@@ -1,10 +1,14 @@
 # Welcome to Cursor MCP
 
-This repository demonstrates the integration between Cursor IDE and GitHub through the Model Control Protocol (MCP).
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+A repository demonstrating the integration between Cursor IDE and GitHub through the Model Context Protocol (MCP). This project showcases how AI assistants can interact directly with GitHub repositories for seamless code management and collaboration.
 
 ## About Cursor MCP
 
-Cursor MCP (Model Control Protocol) allows AI assistants like Claude to interact directly with GitHub repositories, enabling seamless code management and collaboration without leaving your IDE.
+Cursor MCP (Model Context Protocol) allows AI assistants like Claude to interact directly with GitHub repositories, enabling seamless code management and collaboration without leaving your IDE.
 
 ## Features
 
@@ -42,6 +46,6 @@ Here are some example commands you can use with Cursor MCP:
 
 For more information about Cursor IDE and its features, visit [Cursor's official website](https://cursor.sh/).
 
----
+## License
 
-*This README was created using Cursor MCP* 
+MIT
